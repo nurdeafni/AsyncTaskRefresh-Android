@@ -1,0 +1,17 @@
+
+{
+    "users":
+    [
+         {
+             "id":1,
+             "name":"Nur De",
+             "email":"nurde@gmail.com"
+         },
+         {
+            "id":2,
+            "name":"Afni",
+            "email":"afni@gmail.com"   
+         }
+
+    ]
+}
